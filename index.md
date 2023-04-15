@@ -1,12 +1,11 @@
 ![uq_logo](https://raw.githubusercontent.com/ssl-recsys/ssl-recsys.github.io/main/uq_logo2.jpg)
 
 <br>
-Welcome! This is the page of our tutorial "<b>Self-Supervised Learning in Recommendation: Foundations, Methods and Prospects</b>" at WSDM 2023.
+Welcome! This is the page of our tutorial "<b>Self-Supervised Learning in Recommendation: Foundations, Methods and Prospects</b>" at DASFAA 2023.
 
-(Last update: 30/09/2022)
 
 ### Time
-TBA
+April 18th 2023, 13:30-15:00
 <hr>
 
 ### Description
